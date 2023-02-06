@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [Signit](https://signit.sa) <br>🌱 I’m currently learning Domain driven design with Node<br>💬 Ask me about react, Javascript and Typescript<br>
 
+<a href="https://app.daily.dev/AwrminKhodaei"><img src="https://api.daily.dev/devcards/f981d70c394c4f07814ff8a1bfca1205.png?r=e7a" width="400" alt="Armin's Dev Card"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awrminkhodaei) 
